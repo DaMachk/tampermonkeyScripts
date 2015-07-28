@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Likeout clear yutube controls
-// @namespace    http://likeout.net
+// @namespace    http://github.com/DaMachk
 // @version      0.1
-// @description  Removes the blok that prevents you from accessing the video controls on the bottom right side
+// @description  Removes the block that prevents you from accessing the video controls on the bottom right side
 // @author       DaMachk
 // @match        http://likeout.net/*
 // @grant        none
